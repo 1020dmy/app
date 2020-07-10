@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void initData() {
         Toast.makeText(this, "上传gitbut", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "gitbut", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "上传gitbut", Toast.LENGTH_SHORT).show();
     }
 
 }
